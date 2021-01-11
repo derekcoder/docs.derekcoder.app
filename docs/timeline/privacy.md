@@ -8,13 +8,9 @@ This privacy policy applies to the iOS main app itself and its embedded framewor
 
 Time-Line uses iCloud to back up and sync data. The iCloud service is provided by Apple, and as we can imagine, it's quite secure and trustworthy.
 
-We do not back up and sync your data anywhere other than your device!!!
-
 **Data Collected by Time-Line**
 
 The Time-Line app itself does not collect any data from you. This includes data used to calculate and track the number and behavior of users, as well as statistics on application crashes.
-
-In short, we do not collect any data from you!!!
 
 **Changes to This Privacy Policy**
 
