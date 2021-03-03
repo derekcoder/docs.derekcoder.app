@@ -1,16 +1,12 @@
 ## Privacy Policy
 
-Time-Line is an app that can be used to keep track of the timelines. You can create different timelines to chronologically record the events associated with them.
+Bus for SG is an application to view the arrival time of Singapore buses. It can simultaneously track the arrival time of three buses under the same number.
 
 This privacy policy applies to the iOS main app itself and its embedded frameworks.
 
-**iCloud Sync**
+**Data Collected by Bus for SG**
 
-Time-Line uses iCloud to back up and sync data. The iCloud service is provided by Apple, and as we can imagine, it's quite secure and trustworthy.
-
-**Data Collected by Time-Line**
-
-The Time-Line app itself does not collect any data from you. This includes data used to calculate and track the number and behavior of users, as well as statistics on application crashes.
+The "Bus for SG" app does not collect any data from you except crash logs.
 
 **Changes to This Privacy Policy**
 
