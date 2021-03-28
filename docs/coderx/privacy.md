@@ -2,8 +2,6 @@
 
 Coderx for GitHub is a concise and powerful GitHub app. You can use it to do a number of things in GitHub.
 
-This privacy policy applies to the iOS main app itself and its embedded frameworks.
-
 **iCloud Sync**
 
 Coderx uses iCloud to back up and sync your favorites. The iCloud service is provided by Apple, and as we can imagine, it's quite secure and trustworthy.

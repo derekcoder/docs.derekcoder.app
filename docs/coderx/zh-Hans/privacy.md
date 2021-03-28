@@ -2,8 +2,6 @@
 
 Coderx for GitHub 是一款简洁且功能强大的 GitHub 客户端。您可以使用它来完成 GitHub 的大部分操作。
 
-此隐私政策适用于 iOS 应用本身，以及其内嵌的框架。
-
 **iCloud 同步**
 
 Coderx 使用 iCloud 来备份和同步您的收藏数据。由于 iCloud 服务是由苹果提供的，可想而知，它是相当安全和值得信任的。

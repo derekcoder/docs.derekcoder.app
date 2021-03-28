@@ -2,8 +2,6 @@
 
 Time-Line is an app that can be used to keep track of the timelines. You can create different timelines to chronologically record the events associated with them.
 
-This privacy policy applies to the iOS main app itself and its embedded frameworks.
-
 **iCloud Sync**
 
 Time-Line uses iCloud to back up and sync data. The iCloud service is provided by Apple, and as we can imagine, it's quite secure and trustworthy.

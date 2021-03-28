@@ -2,8 +2,6 @@
 
 Bus for SG is an application to view the arrival time of Singapore buses. It can simultaneously track the arrival time of three buses under the same number.
 
-This privacy policy applies to the iOS main app itself and its embedded frameworks.
-
 **Data Collected by Bus for SG**
 
 The "Bus for SG" app does not collect any data from you except crash logs.

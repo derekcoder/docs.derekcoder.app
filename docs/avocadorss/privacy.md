@@ -1,14 +1,14 @@
 ## Privacy Policy
 
-Orange is a "minimalist" app to manage your spendings and incomes.
+Avocado RSS is a clean RSS reader application.
 
 **iCloud Sync**
 
-Orange uses iCloud to back up and sync data. The iCloud service is provided by Apple, and as we can imagine, it's quite secure and trustworthy.
+Avocado RSS uses iCloud to back up and sync data. The iCloud service is provided by Apple, and as we can imagine, it's quite secure and trustworthy.
 
-**Data Collected by Orange**
+**Data Collected by Avocado RSS**
 
-The Orange app itself does not collect any data from you. This includes data used to calculate and track the number and behavior of users, as well as statistics on application crashes.
+The Avocado RSS app itself does not collect any data from you. This includes data used to calculate and track the number and behavior of users, as well as statistics on application crashes.
 
 **Changes to This Privacy Policy**
 
